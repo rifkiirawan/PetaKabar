@@ -1,0 +1,5 @@
+https://www.tribunnews.com/tag/indonesia
+Syubban Fakhriya10:24 PM
+https://stackoverflow.com/questions/45313128/scrapy-extracting-data-from-an-html-tag-that-uses-an-id-selector-instead-of-a
+Syubban Fakhriya10:28 PM
+str(parsed_link.path)

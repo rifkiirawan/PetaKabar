@@ -1,0 +1,18 @@
+numpy
+pandas
+joblib
+yake
+scikit-learn
+keybert
+spacy==3.2.4
+nltk
+sentence-transformers
+python-crfsuite
+scrapy
+html2text
+bs4
+fastapi
+uvicorn[standard]
+gunicorn
+# uvloop
+httptools

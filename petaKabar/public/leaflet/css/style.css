@@ -1,0 +1,85 @@
+html, body {
+    height: 100%;
+    overflow: hidden;
+    /* width: 100%; */
+  }
+
+  /* #mainContainer{
+      position: relative;
+      width: 100%;
+      height: calc(100% - 80px);
+      display: flex;
+  }
+
+  #bars{
+      z-index: 0;
+      width: 500px;
+      overflow-x: auto;
+      border-left: 1px solid rgb(214, 49, 65);
+  }
+
+  ::-webkit-scrollbar {
+      display: none;
+  }
+
+  #mapDiv {
+      flex: 1;
+  } */
+  #map {
+    /* width: auto; */
+    height: 100%;
+    /* z-index: 0; */
+  }
+
+  #refreshButton{
+      display: flex;
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      padding: 20px;
+      background-color: white;
+      border-radius: 5px;
+      border-color: gray;
+      border-style: solid;
+      border-width: 1px 1px 1px 1px;
+      opacity: 1;
+      text-align: center;
+      z-index: 500;
+  }
+  #refreshButton:hover{
+      opacity: 0.9;
+      cursor: pointer;
+  }
+
+  #beritaButton{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 75px;
+    right: 20px;
+    width: 100px;
+    height: 50px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    opacity: 1;
+    text-align: center;
+    z-index: 500;
+}
+#beritaButton:hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+
+  /* @media screen and (max-width: 960px) {
+    #mainContainer {
+      flex-direction: column;
+    }
+    #mapDiv,
+    #bars {
+      flex: 1;
+    } */
+  /* } */

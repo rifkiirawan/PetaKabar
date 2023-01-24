@@ -1,0 +1,3 @@
+1. yang pertama dari setiap array(lokasi kalau bisa di ambil lokasinya)
+2. jika hanya satu dari ketiganya
+3. 

@@ -1,0 +1,4 @@
+scrapy
+pandas
+html2text
+beautifulsoup4
